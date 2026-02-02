@@ -2,4 +2,4 @@
 Primeiro repositorio do curso em video do Guanabara
 
 
-essa linha eu editei dietamente no site 
+essa linha eu editei editei diretamente (de novo) no site 
